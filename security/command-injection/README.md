@@ -1,4 +1,4 @@
-*How Command-Injection works*
+*How Command Injection works*
 
 - The goal is to inject or append arbitrary commands at the end of another command or URL
 - A vulnerable web site will execute the command using its local operating system privileges
